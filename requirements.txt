@@ -1,0 +1,11 @@
+# Core dependencies
+ffmpeg-python==0.2.0
+
+# Development and testing dependencies
+pytest==7.4.2
+pytest-mock==3.11.1
+unittest-xml-reporting==3.0.4
+
+# Linting and formatting
+flake8==6.1.0
+black==23.9.1
